@@ -1,4 +1,4 @@
-# Chadicus\Date
+# Chadicus\Entity
 [![Build Status](https://travis-ci.org/chadicus/entity-php.svg?branch=master)](https://travis-ci.org/chadicus/entity-php)
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/chadicus/entity-php/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/chadicus/entity-php/?branch=master)
 [![Coverage Status](https://coveralls.io/repos/github/chadicus/entity-php/badge.svg?branch=master)](https://coveralls.io/github/chadicus/entity-php?branch=master)
